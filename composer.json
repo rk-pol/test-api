@@ -1,0 +1,17 @@
+{
+    "name": "testapi/testapi",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "api/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rk-pol",
+            "email": "info.send.only@gmail.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
