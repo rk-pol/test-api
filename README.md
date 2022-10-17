@@ -1,5 +1,6 @@
 ## Main
 
+<<<<<<< HEAD
 This is test project with minimum facilities for making order by customers.
 This repo has two branches: master and develop.
 
@@ -72,3 +73,13 @@ User login credentials:
 email: user@example.com
 password: user
 ```
+=======
+Description: <br>
+This API get convert existing path on website and generate a new representation instead of it.
+There are two methods only: POST and GET; 
+
+•	POST
+Api gets full link on some website and give changing one in return.
+•	GET
+Make redirect to an origin link by it's short sketch.
+>>>>>>> 5e27325e3a44b3003140a43b5edb745c7aae3cee
